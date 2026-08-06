@@ -38,13 +38,13 @@ I enjoy creating real-world, problem-solving applications using modern web techn
 
 A modern rental property marketplace built with Next.js, allowing tenants, landlords, and admins to manage properties, rental requests, and payments.
 
-🔗 Repository: YOUR_RENTNEST_REPO
+🔗 Repository: https://github.com/EmonMridha/Level-02-Assignment-05
 
 📦 SafeShip
 
 A parcel delivery management platform with authentication, dashboards, parcel tracking, and role-based functionality.
 
-🔗 Repository: YOUR_SAFESHIP_REPO
+🔗 Repository: https://github.com/EmonMridha/Parcel-Appp
 
 📊 GitHub Analytics
 
