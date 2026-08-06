@@ -38,7 +38,9 @@ I enjoy creating real-world, problem-solving applications using modern web techn
 
 A modern rental property marketplace built with Next.js, allowing tenants, landlords, and admins to manage properties, rental requests, and payments.
 
-🔗 Repository: https://github.com/EmonMridha/Level-02-Assignment-05
+🔗 Frontend Repository: https://github.com/EmonMridha/Level-02-Assignment-05
+🔗 Backend Repository: https://github.com/EmonMridha/Level-2-Assignement-04
+
 
 📦 SafeShip
 
