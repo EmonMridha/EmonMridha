@@ -3,7 +3,7 @@
 </p>
 
 Hi 👋, I'm Emon Mridha
-🚀 Junior Full Stack Developer
+🚀 A Full Stack Developer
 
 Building scalable web applications with Next.js, TypeScript & the MERN Stack
 
@@ -13,7 +13,7 @@ Building scalable web applications with Next.js, TypeScript & the MERN Stack
 
 💫 About Me
 
-I'm a passionate Junior Full Stack Developer who loves learning about technology and building modern web applications.
+I'm a Full Stack Developer who loves learning about technology and building modern web applications solving real life problems.
 
 I enjoy creating real-world, problem-solving applications using modern web technologies. My goal is to become a highly skilled developer who continuously learns, grows, and contributes to impactful software projects.
 
@@ -24,7 +24,7 @@ I enjoy creating real-world, problem-solving applications using modern web techn
 💼 Looking for a Junior Full Stack Developer opportunity
 🤝 Open to collaborating on Open Source Projects
 🧠 Practicing Problem Solving & Data Structures
-🎓 Studying B.Sc. (Hons.) in Mathematics
+🎓 Pursuing B.Sc. (Hons.) in Mathematics
 💻 Tech Stack
 
 <p align="center">
