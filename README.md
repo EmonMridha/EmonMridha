@@ -3,7 +3,7 @@
 </p>
 
 Hi 👋, I'm Emon Mridha
-🚀 A Full Stack Developer
+ A Full Stack Developer
 
 Building scalable web applications with Next.js, TypeScript & the MERN Stack
 
